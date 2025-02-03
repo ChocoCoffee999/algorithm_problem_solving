@@ -36,6 +36,7 @@ Solving algorithmic problems on sites such as Baekjun, Jungol, SWea, etc
 * 6485
 * 6730
 * 6958
+* 7733
 
 ### Jungol
 * 1329

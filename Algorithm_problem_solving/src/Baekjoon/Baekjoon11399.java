@@ -1,8 +1,10 @@
+package Baekjoon;
+
 import java.util.Arrays;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class baekjoon11399 {
+public class Baekjoon11399 {
 
 	public static void main(String[] args) throws Exception{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
