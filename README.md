@@ -7,6 +7,7 @@ Solving algorithmic problems on sites such as Baekjun, Jungol, SWea, etc
 * 1244
 * 1600
 * 2164
+* 2206
 * 2563
 * 2564
 * 2567
