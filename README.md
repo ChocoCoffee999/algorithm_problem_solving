@@ -6,6 +6,7 @@ Solving algorithmic problems on sites such as Baekjun, Jungol, SWea, etc
 ### Baekjoon
 * 1244
 * 1600
+* 1976
 * 1979
 * 2164
 * 2206
