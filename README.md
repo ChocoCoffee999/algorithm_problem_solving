@@ -20,6 +20,7 @@ Solving algorithmic problems on sites such as Baekjun, Jungol, SWea, etc
 * 2941
 * 2991
 * 2999
+* 3954
 * 4963
 * 7576
 * 8320
