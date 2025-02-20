@@ -38,6 +38,7 @@ Solving algorithmic problems on sites such as Baekjun, Jungol, SWea, etc
 * 1859
 * 1873
 * 1940
+* 1954
 * 1974
 * 1983
 * 2805
