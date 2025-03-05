@@ -4,6 +4,7 @@ Solving algorithmic problems on sites such as Baekjun, Jungol, SWea, etc
 ## Solved Problem
 
 ### Baekjoon
+* 1074
 * 1244
 * 1600
 * 1966
