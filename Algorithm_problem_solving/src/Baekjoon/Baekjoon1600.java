@@ -37,13 +37,13 @@ public class Baekjoon1600 {
 
 	
 	public static void bfs(boolean[][][] v, int k) {
-		Queue<Pos1600> que = new LinkedList<>();
-		Pos1600 start = new Pos1600(0,0,0,0);
+		Queue<Pos> que = new LinkedList<>();
+		Pos start = new Pos(0,0,0,0);
 		
 		que.offer(start);
 		
 		while(que.size()>0) {
-			Pos1600 curPos = que.poll();
+			Pos curPos = que.poll();
 //			System.out.printf("%d %d %d %d\n", curPos.x, curPos.y, curPos.jump, curPos.move);
 			if (curPos.x==map.length-1&&curPos.y==map[0].length-1) {
 				System.out.println(curPos.move);
@@ -54,7 +54,7 @@ public class Baekjoon1600 {
 					if(curPos.x+drH[i]>=0&&curPos.x+drH[i]<map.length&&curPos.y+dcH[i]>=0&&curPos.y+dcH[i]<map[0].length) {
 						for (int j=0;j<=curPos.jump+1;j++) if (v[curPos.x+drH[i]][curPos.y+dcH[i]][j]) continue L;
 						if(map[curPos.x+drH[i]][curPos.y+dcH[i]]==0) {
-							Pos1600 nextPos = new Pos1600(curPos.x+drH[i], curPos.y+dcH[i], curPos.jump+1, curPos.move+1);
+							Pos nextPos = new Pos(curPos.x+drH[i], curPos.y+dcH[i], curPos.jump+1, curPos.move+1);
 							que.offer(nextPos);
 							v[curPos.x+drH[i]][curPos.y+dcH[i]][curPos.jump+1] = true;
 						}
@@ -65,7 +65,7 @@ public class Baekjoon1600 {
 				if (curPos.x+dr[i]>=0&&curPos.x+dr[i]<map.length&&curPos.y+dc[i]>=0&&curPos.y+dc[i]<map[0].length) {
 					if (v[curPos.x+dr[i]][curPos.y+dc[i]][curPos.jump]) continue;
 					if (map[curPos.x+dr[i]][curPos.y+dc[i]]==0) {
-						Pos1600 nextPos = new Pos1600(curPos.x+dr[i], curPos.y+dc[i], curPos.jump,curPos.move+1);
+						Pos nextPos = new Pos(curPos.x+dr[i], curPos.y+dc[i], curPos.jump,curPos.move+1);
 						que.offer(nextPos);
 						v[curPos.x+dr[i]][curPos.y+dc[i]][curPos.jump] = true;
 					}
@@ -75,18 +75,18 @@ public class Baekjoon1600 {
 		System.out.println(-1);
 		return;
 	}
-}
-
-class Pos1600 {
-	int x;
-	int y;
-	int jump;
-	int move;
 	
-	Pos1600(int x, int y, int jump, int move) {
-		this.x = x;
-		this.y = y;
-		this.jump = jump;
-		this.move = move;
+	static class Pos {
+		int x;
+		int y;
+		int jump;
+		int move;
+		
+		Pos(int x, int y, int jump, int move) {
+			this.x = x;
+			this.y = y;
+			this.jump = jump;
+			this.move = move;
+		}
 	}
 }

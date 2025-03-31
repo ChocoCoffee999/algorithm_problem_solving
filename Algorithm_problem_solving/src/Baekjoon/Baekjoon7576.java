@@ -59,27 +59,27 @@ public class Baekjoon7576 {
 		}
 		return maxDate;
 	}
-}
-
-class Pos {
-	private int r = 0;
-	private int c = 0;
-	private int day = 0;
-	Pos(int r, int c, int day) {
-		this.r = r;
-		this.c = c;
-		this.day = day;
-	}
 	
-	public int getR() {
-		return this.r;
-	}
-	
-	public int getC() {
-		return this.c;
-	}
-	
-	public int getDay() {
-		return this.day;
+	static class Pos {
+		private int r = 0;
+		private int c = 0;
+		private int day = 0;
+		Pos(int r, int c, int day) {
+			this.r = r;
+			this.c = c;
+			this.day = day;
+		}
+		
+		public int getR() {
+			return this.r;
+		}
+		
+		public int getC() {
+			return this.c;
+		}
+		
+		public int getDay() {
+			return this.day;
+		}
 	}
 }
