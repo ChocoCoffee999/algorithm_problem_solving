@@ -121,5 +121,14 @@ $RECYCLE.BIN/
 
 # Ssafy Homework
 HW/
-
+CourseB/
+al/
+input/
+algorithm/
+CodeBattle/
+*_Ans.java
+*_Fail.java
+*_ans.java
+*_fail.java
+ConvertInputVar.java
 # End of https://www.toptal.com/developers/gitignore/api/eclipse,java,windows
