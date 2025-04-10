@@ -18,6 +18,7 @@ Solving algorithmic problems on sites such as Baekjun, Jungol, SWea, etc
 - 1600  
 - 1753  
 - 1920  
+- 1932  
 - 1941  
 - 2042  
 - 2164  
