@@ -1,60 +1,88 @@
 # algorithm_problem_solving
 Solving algorithmic problems on sites such as Baekjun, Jungol, SWea, etc
 
-## Solved Problem
+## Algorithm
 
-### Baekjoon
-* 1074
-* 1244
-* 1600
-* 1966
-* 1970
-* 1976
-* 1979
-* 2164
-* 2206
-* 2563
-* 2564
-* 2567
-* 2615
-* 2798
-* 2941
-* 2991
-* 2999
-* 3954
-* 4963
-* 7576
-* 8320
-* 11399
-* 16206
-* 17135
-* 17136
-* 17413
-* 17472
+### Solved Problem
 
-### SWEA
-* 1208
-* 1247
-* 1289
-* 1859
-* 1873
-* 1940
-* 1954
-* 1974
-* 1983
-* 2805
-* 4193
-* 4615
-* 5215
-* 5432
-* 6485
-* 6730
-* 6958
-* 7699
-* 7733
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim99602" alt="solved.ac tier"/>
 
-### Jungol
-* 1329
-* 1523
-* 1707
-* 1719
+<details>
+<summary><strong>Baekjoon</strong></summary>
+
+<details>
+<summary>문제 목록 보기</summary>
+
+- 1074  
+- 1244  
+- 1600  
+- 1966  
+- 1970  
+- 1976  
+- 1979  
+- 2164  
+- 2206  
+- 2563  
+- 2564  
+- 2567  
+- 2615  
+- 2798  
+- 2941  
+- 2991  
+- 2999  
+- 3954  
+- 4963  
+- 7576  
+- 8320  
+- 11399  
+- 16206  
+- 17135  
+- 17136  
+- 17413  
+- 17472  
+
+</details>
+</details>
+
+<details>
+<summary><strong>SWEA</strong></summary>
+
+<details>
+<summary>문제 목록 보기</summary>
+
+- 1208  
+- 1247  
+- 1289  
+- 1859  
+- 1873  
+- 1940  
+- 1954  
+- 1974  
+- 1983  
+- 2805  
+- 4193  
+- 4615  
+- 5215  
+- 5432  
+- 6485  
+- 6730  
+- 6958  
+- 7699  
+- 7733  
+
+</details>
+</details>
+
+<details>
+<summary><strong>Jungol</strong></summary>
+
+<details>
+<summary>문제 목록 보기</summary>
+
+- 1329  
+- 1523  
+- 1707  
+- 1719  
+
+</details>
+</details>
