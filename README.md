@@ -10,9 +10,6 @@ Solving algorithmic problems on sites such as Baekjun, Jungol, SWea, etc
 <details>
 <summary><strong>Baekjoon</strong></summary>
 
-<details>
-<summary>문제 목록 보기</summary>
-
 - 1074  
 - 1244  
 - 1600  
@@ -42,13 +39,9 @@ Solving algorithmic problems on sites such as Baekjun, Jungol, SWea, etc
 - 17472  
 
 </details>
-</details>
 
 <details>
 <summary><strong>SWEA</strong></summary>
-
-<details>
-<summary>문제 목록 보기</summary>
 
 - 1208  
 - 1247  
@@ -71,18 +64,13 @@ Solving algorithmic problems on sites such as Baekjun, Jungol, SWea, etc
 - 7733  
 
 </details>
-</details>
 
 <details>
 <summary><strong>Jungol</strong></summary>
-
-<details>
-<summary>문제 목록 보기</summary>
 
 - 1329  
 - 1523  
 - 1707  
 - 1719  
 
-</details>
 </details>
