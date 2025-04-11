@@ -10,6 +10,7 @@ Solving algorithmic problems on sites such as Baekjun, Jungol, SWea, etc
 <details>
 <summary><strong>Baekjoon</strong></summary>
 
+<details>
 <summary><strong>1XXX</strong></summary>
 
 - 1074  
@@ -25,6 +26,7 @@ Solving algorithmic problems on sites such as Baekjun, Jungol, SWea, etc
 
 </details>
 
+<details>
 <summary><strong>2XXX</strong></summary>
 
 - 2042  
@@ -43,6 +45,7 @@ Solving algorithmic problems on sites such as Baekjun, Jungol, SWea, etc
 
 </details>
 
+<details>
 <summary><strong>3XXX ~ </strong></summary>
 
 - 3954  
@@ -75,6 +78,7 @@ Solving algorithmic problems on sites such as Baekjun, Jungol, SWea, etc
 <details>
 <summary><strong>SWEA</strong></summary>
 
+<details>
 <summary><strong>1XXX</strong></summary>
 
 - 1208  
@@ -101,6 +105,7 @@ Solving algorithmic problems on sites such as Baekjun, Jungol, SWea, etc
 
 </details>
 
+<details>
 <summary><strong>2XXX ~ </strong></summary>
 
 - 2001  
