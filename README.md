@@ -57,7 +57,8 @@ Solving algorithmic problems on sites such as Baekjun, Jungol, SWea, etc
 - 10844  
 - 11053 
 - 11722  
-- 11726   
+- 11726  
+- 11727 
 - 11399  
 - 14501  
 - 14502  
